@@ -1,4 +1,4 @@
-# 🎬 Movie Dataset Analysis (1986–2016)
+# 🎬 ReelAnalytics: A Deep Dive into Cinema (1986–2016)
 
 This repository contains an exploratory data analysis (EDA) of a movie dataset covering the years 1986 to 2016. The dataset includes 6,820 movies, each with 15 metadata attributes. Using Python and visualization libraries, I explored correlations and relationships between different movie features such as runtime, budget, genre, and country.
 
